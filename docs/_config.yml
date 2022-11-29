@@ -7,4 +7,4 @@ title: Aber Sail bot Group 2
 show_downloads: false
 
 site-css:
-  - "/docs/assets/style.css"
+  - "/assets/css/style.css"
